@@ -1,0 +1,360 @@
+Kytheon, Hero of Akros
+Mother of Runes
+Soldier of the Pantheon
+Anafenza, Kin-Tree Spirit
+Hanweir Militia Captain
+Selfless Spirit
+Stoneforge Mystic
+Wall of Omens
+War Priest of Thune
+Aerial Responder
+Eldrazi Displacer
+Fairgrounds Warden
+Fiend Hunter
+Mirran Crusader
+Monastery Mentor
+Thalia, Heretic Cathar
+Aetherstorm Roc
+Avacynian Missionaries
+Coalition Honor Guard
+Felidar Guardian
+Angel of Invention
+Archangel Avacyn
+Linvala, the Preserver
+Sun Titan
+Elesh Norn, Grand Cenobite
+Ajani, Caller of the Pride
+Cataclysmic Gearhulk
+Enlightened Tutor
+Path to Exile
+Swords to Plowshares
+Disenchant
+Raise the Alarm
+Balance
+Declaration in Stone
+Council's Judgment
+Spectral Procession
+Day of Judgment
+Wrath of God
+Pacifism
+Always Watching
+Arrest
+Bound by Moonsilver
+Oblivion Ring
+Thopter Arrest
+Faith's Fetters
+Leyline of Sanctity
+Delver of Secrets
+Jace, Vryn's Prodigy
+Looter il-Kor
+Snapcaster Mage
+Stratus Dancer
+Thing in the Ice
+Deceiver Exarch
+Pestermite
+True-Name Nemesis
+Vendilion Clique
+Talrand, Sky Summoner
+Mulldrifter
+Frost Titan
+Elder Deep-Fiend
+Jace Beleren
+Jace, the Mind Sculptor
+Torrential Gearhulk
+Inkwell Leviathan
+Brainstorm
+Dream Twist
+Force Spike
+Mystical Tutor
+Spell Pierce
+Vapor Snag
+Anticipate
+Counterspell
+Cyclonic Rift
+Daze
+Into the Roil
+Mana Leak
+Miscalculation
+Negate
+Remand
+Fact or Fiction
+Repeal
+Dig Through Time
+Ponder
+Preordain
+Serum Visions
+Compulsive Research
+Deep Analysis
+Startled Awake
+Baral's Expertise
+Part the Waterveil
+Treasure Cruise
+Control Magic
+Blood Artist
+Dark Confidant
+Gatekeeper of Malakir
+Pack Rat
+Relentless Dead
+Vampire Hexmage
+Bone Shredder
+Drana, Liberator of Malakir
+Liliana, Heretical Healer
+Vampire Nighthawk
+Braids, Cabal Minion
+Gonti, Lord of Luxury
+Kalitas, Traitor of Ghet
+Nekrataal
+Gray Merchant of Asphodel
+Puppeteer Clique
+Shriekmaw
+Sidisi, Undead Vizier
+Grave Titan
+Tasigur, the Golden Fang
+Gurmag Angler
+Rune-Scarred Demon
+Sheoldred, Whispering One
+Liliana, the Last Hope
+Liliana Vess
+Scrapheap Scrounger
+Noxious Gearhulk
+Dark Ritual
+Disfigure
+Entomb
+Vampiric Tutor
+Doom Blade
+Malicious Affliction
+Hero's Downfall
+Murderous Cut
+Duress
+Inquisition of Kozilek
+Reanimate
+Collective Brutality
+Demonic Tutor
+Hymn to Tourach
+Read the Bones
+Toxic Deluge
+Animate Dead
+Necropotence
+Phyrexian Arena
+Falkenrath Gorger
+Firedrinker Satyr
+Grim Lavamancer
+Jackal Pup
+Monastery Swiftspear
+Stromkirk Noble
+Zurgo Bellstriker
+Abbot of Keral Keep
+Kiln Fiend
+Mogg War Marshal
+Young Pyromancer
+Chandra, Fire of Kaladesh
+Dualcaster Mage
+Manic Vandal
+Reckless Bushwhacker
+Beetleback Chief
+Pia and Kiran Nalaar
+Goblin Dark-Dwellers
+Siege-Gang Commander
+Inferno Titan
+Bedlam Reveler
+Bogardan Hellkite
+Chandra, Torch of Defiance
+Koth of the Hammer
+Shrine of Burning Rage
+Burst Lightning
+Lightning Bolt
+Incinerate
+Lightning Strike
+Searing Blaze
+Searing Spear
+Smash to Smithereens
+Brimstone Volley
+Staggershock
+Chain Lightning
+Faithless Looting
+Firebolt
+Flame Slash
+Gamble
+Cathartic Reunion
+Dragon Fodder
+Wildfire
+Sulfuric Vortex
+Sneak Attack
+Splinter Twin
+Eidolon of the Great Revel
+Avacyn's Pilgrim
+Birds of Paradise
+Llanowar Elves
+Scute Mob
+Den Protector
+Sakura-Tribe Elder
+Sylvan Advocate
+Sylvan Caryatid
+Wall of Roots
+Eternal Witness
+Nissa, Vastwood Seer
+Predator Ooze
+Reclamation Sage
+Tireless Tracker
+Yavimaya Elder
+Chameleon Colossus
+Polukranos, World Eater
+Acidic Slime
+Conclave Naturalists
+Thragtusk
+Greenwarden of Murasa
+Primeval Titan
+World Breaker
+Terastodon
+Woodfall Primus
+Nissa, Voice of Zendikar
+Nissa, Vital Force
+Verdurous Gearhulk
+Blossoming Defense
+Nature's Claim
+Beast Within
+Traverse the Ulvenwald
+Channel
+Explore
+Farseek
+Rampant Growth
+Hypergenesis
+Kodama's Reach
+Search for Tomorrow
+Harmonize
+Natural Order
+Green Sun's Zenith
+Seasons Past
+Oath of Nissa
+Sylvan Library
+Courser of Kruphix
+Geist of Saint Traft
+Reflector Mage
+Supreme Verdict
+Shadowmage Infiltrator
+Dragonlord Silumgar
+Baleful Strix
+Terminate
+Kolaghan's Command
+Dreadbore
+Bloodbraid Elf
+Arlinn Kord
+Ancient Grudge
+Qasali Pridemage
+Dromoka's Command
+Armadillo Cloak
+Ayli, Eternal Pilgrim
+Kambal, Consul of Allocation
+Anguished Unmaking
+Deathrite Shaman
+Spiritmonger
+Abrupt Decay
+Edric, Spymaster of Trest
+Trygon Predator
+Shardless Agent
+Stormchaser Mage
+Saheeli Rai
+Electrolyze
+Figure of Destiny
+Nahiri, the Harbinger
+Goblin Trenches
+Thought-Knot Seer
+Reality Smasher
+Ulamog, the Infinite Gyre
+Ugin, the Spirit Dragon
+Perilous Myr
+Spellskite
+Alloy Myr
+Porcelain Legionnaire
+Scuttlemutt
+Solemn Simulacrum
+Duplicant
+Myr Battlesphere
+Hangarback Walker
+Walking Ballista
+Metalwork Colossus
+Everflowing Chalice
+Mana Crypt
+Mox Opal
+Aether Vial
+Bonesplitter
+Pithing Needle
+Relic of Progenitus
+Sensei's Divining Top
+Skullclamp
+Sol Ring
+Azorius Signet
+Boros Signet
+Dimir Signet
+Golgari Signet
+Gruul Signet
+Heart of Kiran
+Izzet Signet
+Lightning Greaves
+Mind Stone
+Orzhov Signet
+Prophetic Prism
+Rakdos Signet
+Ratchet Bomb
+Selesnya Signet
+Simic Signet
+Smuggler's Copter
+Winter Orb
+Cultivator's Caravan
+Mimic Vat
+Renegade Freighter
+Sword of Body and Mind
+Sword of Feast and Famine
+Sword of Fire and Ice
+Sword of Light and Shadow
+Sword of Vengeance
+Sword of War and Peace
+Worn Powerstone
+Deathrender
+Grimoire of the Dead
+Hedron Archive
+Nevinyrral's Disk
+Panharmonicon
+Batterskull
+Gilded Lotus
+Paradox Engine
+Mental Misstep
+Dismember
+Gitaxian Probe
+Adarkar Wastes
+Battlefield Forge
+Blood Crypt
+Breeding Pool
+Brushland
+Caves of Koilos
+Godless Shrine
+Hallowed Fountain
+Karplusan Forest
+Llanowar Wastes
+Mana Confluence
+Mishra's Factory
+Nykthos, Shrine to Nyx
+Overgrown Tomb
+Sacred Foundry
+Shivan Reef
+Steam Vents
+Stomping Ground
+Strip Mine
+Sulfurous Springs
+Temple Garden
+Temple of Abandon
+Temple of Deceit
+Temple of Enlightenment
+Temple of Epiphany
+Temple of Malady
+Temple of Malice
+Temple of Mystery
+Temple of Plenty
+Temple of Silence
+Temple of Triumph
+Underground River
+Urborg, Tomb of Yawgmoth
+Wasteland
+Watery Grave
+Westvale Abbey
+Yavimaya Coast
