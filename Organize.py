@@ -49,14 +49,14 @@ def organize():
 
     # Define paths
     path_to_current_cube = '{p}/cube_current.txt'.format(p=path_to_cube)
-    path_to_vintage_cube = '{p}/cube_vintage.txt'.format(p=path_to_cube)
+    path_to_target_cube = '{p}/cube_target.txt'.format(p=path_to_cube)
     path_to_matches = '{p}/cube_matches.txt'.format(p=path_to_cube)
     path_to_fillers = '{p}/cube_fillers.txt'.format(p=path_to_cube)
     path_to_missing = '{p}/cube_missing.txt'.format(p=path_to_cube)
 
     # Get current status
     current_cube = txt_to_list(path_to_current_cube)
-    vintage_cube = txt_to_list(path_to_vintage_cube)
+    vintage_cube = txt_to_list(path_to_target_cube)
 
     # Find differences
     matches = get_matches(current_cube, vintage_cube)
